@@ -24,6 +24,14 @@ I independently design, build, and operate production-grade workflow platforms t
   - **Binary Stream PDF Scanner**: Scans uploaded PDFs for dangerous binary markers (`/JavaScript`, `/OpenAction`, `/Launch`, etc.) before storage rather than relying on extension checks.
   - **Row-Level Write Locks**: Implemented direct `pg-client` transaction blocks with explicit row-level state guards (`UPDATE ... WHERE status = 'SUBMITTED'`) to prevent concurrency race conditions.
 
+#### 3. [Journal](https://github.com/Jayxxx1/journal) — Personal Developer Journaling & Sync System (In Progress)
+* **Role**: Sole Developer
+* **Focus**: Designing a highly secure, markdown-centric developer log system featuring local-first syncing and cryptographic privacy.
+* **Core Engineering**:
+  - **Local-First Sync**: Offline-first design with local storage and auto-syncing to remote database when connection is restored.
+  - **Cryptographic Privacy**: Encrypting sensitive entry contents client-side before synchronization.
+  - **Tag-Driven Analytics**: Automatic extraction of tags and metrics to build developer productivity charts.
+
 ---
 
 ### 🛠️ Technical Focus & Competencies
