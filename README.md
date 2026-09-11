@@ -56,3 +56,9 @@ I independently design, build, and operate production-grade workflow platforms t
 
 ---
 *“Systems before screens. Focus on domain logic, transactional state consistency, and policy-driven safety.”*
+
+### 📊 My GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayxxx1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayxxx1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
